@@ -1,0 +1,58 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "🍓"
+    },
+    "notiGroup": false,
+    "NOTIFICATION": false,
+    "allowInbox": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "BOTNAME": " Tobi ",
+    "AMDIN_NAME": "Cường Thịnh",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/cuong.thinh2904",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100061160525111",
+        "",
+        ""
+    ],
+    "NDH": [],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "antists.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "1.2.14",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "log": {
+        "enable": true
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 5000000
+    },
+    "spamcmt": {
+        "spamDelay": 1.5
+    },
+    "test": {
+        "spamDelay": 1.5
+    }
+}

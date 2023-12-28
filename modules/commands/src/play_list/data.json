@@ -1,0 +1,125 @@
+{
+   "ĐẠT-G": {
+        "thumbnail": "https://tse3.mm.bing.net/th?id=OIP._bCfLP2i3aYX0MGyem5S7AHaE7&pid=Api&P=0&h=180",
+        "list": [
+            {
+                "title": "NGÀY MAI EM ĐI MẤT",
+                "duration": "00:53",
+                "subtitle": "ĐẠT-G",
+                "url": "https://i.imgur.com/9p9qg4X.mp4"
+            },
+            {
+                "title": "BUỒN CỦA ANH",
+                "duration": "00:27",
+                "subtitle": "ĐẠT-G",
+                "url": "https://i.imgur.com/Ffbu4Kf.mp4"
+            },
+            {
+                "title": "ĐỪNG QUÊN TÊN ANH",
+                "duration": "00:27",
+                "subtitle": "ĐẠT-G",
+                "url": "https://i.imgur.com/jbEb9hq.mp4"
+            },
+            {
+                "title": "ĐỪNG AI NHẮC VỀ CÔ ẤY",
+                "duration": "00:53",
+                "subtitle": "ĐẠT-G",
+                "url": "https://i.imgur.com/sla02pP.mp4"
+            }
+        ]
+    },
+   "QUANH": {
+        "thumbnail": "https://i.imgur.com/auep4tX.jpeg",
+        "list": [
+            {
+                "title": "MÙA HÈ TUYỆT VỜI",
+                "duration": "00:30",
+                "subtitle": "QUANH",
+                "url": "https://i.imgur.com/5uzF1Bt.mp4"
+            },
+           {
+                "title": "YÊU TỪ BÉ",
+                "duration": "00:35",
+                "subtitle": "QUANH",
+                "url": "https://i.imgur.com/Iy2oLeF.mp4"
+            },
+           {
+                "title": "TƯỚNG QUÂN",
+                "duration": "00:32",
+                "subtitle": "QUANH",
+                "url": "https://i.imgur.com/553GYMd.mp4"
+            },
+           {
+                "title": "TÁT NƯỚC ĐẦU ĐÌNH",
+                "duration": "00:27",
+                "subtitle": "QUANH",
+                "url": "https://i.imgur.com/pr7SEmo.mp4"
+            },
+            {
+                "title": "YÊU LÀ CƯỚI",
+                "duration": "00:37",
+                "subtitle": "QUANH",
+                "url": "https://i.imgur.com/W3GPpqv.mp4"
+            },
+           {
+                "title": "VÁY CƯỚI",
+                "duration": "00:30",
+                "subtitle": "QUANH",
+                "url": "https://i.imgur.com/ZCmFPnA.mp4"
+            },
+           {
+                "title": "MỘT BƯỚC YÊU VẠN DẶM ĐAU",
+                "duration": "00:38",
+                "subtitle": "QUANH",
+                "url": "https://i.imgur.com/vGtqPab.mp4"
+            },
+            {
+                "title": "BÊN TRÊN TẦNG LẦU",
+                "duration": "00:43",
+                "subtitle": "QUANH",
+                "url": "https://i.imgur.com/DdwBGzC.mp4"
+            },
+          {
+                "title": "CƯA LÀ ĐỔ",
+                "duration": "00:37",
+                "subtitle": "QUANH",
+                "url": "https://i.imgur.com/XGshp7f.mp4"
+            },
+            {
+                "title": "HÀO KHÍ VIỆT NAM",
+                "duration": "01:08",
+                "subtitle": "QUANH",
+                "url": "https://i.imgur.com/wCAe0LB.mp4"
+            }
+        ]
+    },
+    "BRAY": {
+        "thumbnail": "https://goidichvu.com/wp-content/uploads/2021/03/tieu-su-rapper-bray.jpg",
+        "list": [
+            {
+                "title": "CHO BA",
+                "duration": "02:05",
+                "subtitle": "BRAY",
+                "url": "https://i.imgur.com/nSmbwlc.mp4"
+            },
+            {
+                "title": "CAO ỐC 20",
+                "duration": "02:13",
+                "subtitle": "BRAY X ĐẠT-G",
+                "url": "https://i.imgur.com/ywK7TrA.mp4"
+            },
+            {
+                "title": "XIN",
+                "duration": "01:21",
+                "subtitle": "BRAY X ĐẠT-G",
+                "url": "https://i.imgur.com/XREfgZh.mp4"
+            },
+            {
+                "title": "CON TRAI CƯNG",
+                "duration": "01:13",
+                "subtitle": "BRAY",
+                "url": "https://i.imgur.com/GiOVJKX.mp4"
+            }
+        ]
+    }
+}
